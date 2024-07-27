@@ -1,0 +1,12 @@
+{
+  "assignedVolunteers":6.0,
+  "assignmentCost":-283625.0,
+  "assignments":[
+    {"volunteerId":"1064637","taskId":"EC6BD1B7-E239-44B8-A5CA-B195F7D7297B"},
+    {"volunteerId":"1137913","taskId":"AB7C0FB0-0F5E-47BB-B901-9E7959B8146E"},
+    {"volunteerId":"1267376","taskId":"AB7C0FB0-0F5E-47BB-B901-9E7959B8146E"},
+    {"volunteerId":"1102554","taskId":"AB7C0FB0-0F5E-47BB-B901-9E7959B8146E"},
+    {"volunteerId":"1056112","taskId":"AB7C0FB0-0F5E-47BB-B901-9E7959B8146E"},
+    {"volunteerId":"1135473","taskId":"AB7C0FB0-0F5E-47BB-B901-9E7959B8146E"}
+  ]
+}
